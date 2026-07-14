@@ -1,2 +1,2 @@
 # INCA_ohadii
-INCA files
+Model, INCA runs, and results for 13C INST-MFA of C. ohadii in 7 different light intensities.

@@ -1,0 +1,102 @@
+Mets,PoolSize,LB,UB
+2PG,0.1298,0,0.441
+3PGA.c pool,0.00000059677,0,383.91580059677
+3PGA.p pool,0.0224,0,382.0645
+PGA,0.0344,0,0.1953
+ACA.m pool,0.0056,0,366.8101
+ACA.p pool,1,0,inf
+ACA.t pool,1,0,inf
+ACE.c pool,0.1515,0,373.8537
+ACE.in pool,1,0,inf
+ACP pool,1,0,inf
+ADPG,0.2559,0.1705,0.3413
+AKG,3.3401,0,379.2534
+ALA pool,1,0,inf
+ALAprot pool,1,0,inf
+ARG pool,1,0,inf
+ARGprot pool,1,0,inf
+ASP,0.3261,0,0.7387
+ASXprot pool,6.4901,0,389.6365
+C1 pool,1,0,inf
+CIT pool,0.6504,0,383.8116
+CO2 pool,0.0000001,0.0000001,0.0000001
+CO2.in pool,1,0,inf
+CYSprot pool,1,0,inf
+E4P.p pool,0.0517,0,0.1489
+F6P.c pool,1,0,inf
+F6P.p pool,0.0313,0,0.1492
+F6P,0.2627,0,1.1977
+FUM pool,91.1003,0,447.4937
+G1P.c pool,0.4939,0,7.6962
+G1P.p pool,0.00080873,0,370.89290873
+G1P,0.1352,0,261.2306
+G3P.TAG pool,1,0,inf
+G3P.c pool,1,0,inf
+G6P.c pool,0.1481,0,0.6357
+G6P.p pool,0.0000001,0.0000001,0.0000001
+G6P,26.7717,0,433.2465
+GLU,28.4762,0,396.8965
+GLXprot pool,0.5257,0,373.1486
+GLY.c pool,0.0833,0,3.8428
+GLY.p pool,0.0416,0,372.1825
+GLY.t pool,1,0,inf
+GLYOX.m pool,0.0011,0,357.9974
+GLYprot pool,40.9156,0,420.2143
+HIS pool,1,0,inf
+HISprot pool,1,0,inf
+ICI pool,0.2285,0,365.5445
+ILE pool,1,0,inf
+ILEprot pool,1,0,inf
+LEU pool,1,0,inf
+LEUprot pool,1,0,inf
+LYS pool,1,0,inf
+LYSprot pool,1,0,inf
+Ly pool,1,0,inf
+MAL,0.0902,0,0.2342
+MET pool,1,0,inf
+METprot pool,1,0,inf
+OAA pool,0.0000001,0.0000001,0.0000001
+P5P.c pool,0.000011515,0,397.322011515
+P5P.p pool,1.0381,0.6747,1.4015
+P5P,0.023,0,0.3735
+PEP.c pool,0.0000001,0.0000001,0.0000001
+PEP.p pool,0.8006,0,400.8986
+PEP.t pool,0.0019,0,inf
+PHE pool,1,0,inf
+PHEprot pool,1,0,inf
+PRO pool,1,0,inf
+PROprot pool,1,0,inf
+PURINE pool,1,0,inf
+PUnuc pool,1,0,inf
+PUnucOUT pool,1,0,inf
+PYR.c pool,0.0000001,0,376.8128001
+PYR.p pool,0.4428,0,348.117
+PYR.t pool,1,0,inf
+PYRIMIDINE pool,1,0,inf
+PYnuc pool,1,0,inf
+PYnucOUT pool,1,0,inf
+RUBP,0.3676,0.1533,0.5819
+S7P,0.0588,0.019,0.0986
+SBP,0.1264,0.0633,0.1895
+SER.c pool,0.8424,0,364.9747
+SER.p pool,0.0000001,0.0000001,0.0000001
+SER.t pool,1,0,inf
+SERprot pool,0.8014,0,404.3037
+SUC,111.248,0,508.1351
+Sh pool,1,0,inf
+Shikimat pool,3.446,0,378.7548
+Starch pool,0.0078,0,390.9584
+Starch.out pool,39.5382,0,398.6664
+TAG pool,1,0,inf
+THR pool,1,0,inf
+THRprot pool,1,0,inf
+TP.c pool,0.000012518,0,367.123812518
+TP.p pool,0.4316,0.1976,0.6656
+TP,0.0144,0,19.2521
+TYR pool,1,0,inf
+TYRprot pool,1,0,inf
+Thymidine pool,1,0,inf
+UDPG,0.4657,0,7.8762
+VAL pool,0.0623,0,389.6264
+VALprot pool,1,0,inf
+WALL pool,1,0,inf
